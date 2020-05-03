@@ -14,6 +14,6 @@ personalized textual data increasingly available. In this project, we predict us
 
 ## How to Run
 
--  Edit the example.py file with your text
 -  Run the flask server with `python app.py`
--  Navigate to `16PF.html` and then navigate to test and enter some article written by user and click predict button to run the code.
+-  Navigate to `16PF.html`.
+-  Then navigate to test (`predict.html`) and enter some article written by user and click predict button to run the code.
